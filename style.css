@@ -21,9 +21,7 @@ align-items: center;
 width: 120px;
 height:120px;
 border-radius: 50%; /* Make it a circle */
-object-fit: cover; /* Maintain aspect ratio */
-margin: 20px; /* Add margin to the image */
-}
+margin: 20px; /* Add margin to the imag
 .card-content {
 padding: 20px; /* Add padding to the content */
 }
